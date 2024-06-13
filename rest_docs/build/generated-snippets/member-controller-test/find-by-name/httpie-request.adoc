@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ http GET 'http://localhost:8080/member-name?name=%EC%83%88%EB%A1%9C%EC%9A%B4+%EB%A9%A4%EB%B2%84' \
+    'Content-Type:application/json;charset=UTF-8'
+----

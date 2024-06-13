@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 111
+
+{"memberResponses":[{"id":1,"name":"새로운 멤버1","age":21},{"id":2,"name":"새로운 멤버2","age":21}]}
+----

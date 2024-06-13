@@ -1,0 +1,8 @@
+.+/member/{id}+
+|===
+|Parameter|Description
+
+|`+id+`
+|찾아올 멤버 아이디입니다.
+
+|===

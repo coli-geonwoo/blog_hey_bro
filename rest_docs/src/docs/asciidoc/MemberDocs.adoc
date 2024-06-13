@@ -1,0 +1,53 @@
+= Member 관련 Docs
+
+== member 저장
+
+=== 요청
+include::{snippets}/member-controller-test/save-member/http-request.adoc[]
+
+=== 요청 body
+include::{snippets}/member-controller-test/save-member/request-body.adoc[]
+
+=== 응답
+include::{snippets}/member-controller-test/save-member/http-response.adoc[]
+
+=== 응답 필드
+include::{snippets}/member-controller-test/save-member/response-fields.adoc[]
+
+=== member 조회
+
+=== 요청
+include::{snippets}/member-controller-test/get-member/http-request.adoc[]
+
+=== 응답
+include::{snippets}/member-controller-test/get-member/http-response.adoc[]
+
+=== 응답 필드
+include::{snippets}/member-controller-test/get-member/response-fields.adoc[]
+
+
+== member 이름으로 찾기
+=== 요청
+include::{snippets}/member-controller-test/find-by-name/http-request.adoc[]
+
+=== 요청 쿼리 파라미터
+include::{snippets}/member-controller-test/find-by-name/query-parameters.adoc[]
+
+=== 응답
+include::{snippets}/member-controller-test/find-by-name/http-response.adoc[]
+
+=== 응답 필드
+include::{snippets}/member-controller-test/find-by-name/response-fields.adoc[]
+
+== member id로 조회
+=== 요청
+include::{snippets}/member-controller-test/find-by-id/http-request.adoc[]
+
+=== 요청 쿼리 파라미터
+include::{snippets}/member-controller-test/find-by-id/path-parameters.adoc[]
+
+=== 응답
+include::{snippets}/member-controller-test/find-by-id/http-response.adoc[]
+
+=== 응답 필드
+include::{snippets}/member-controller-test/find-by-id/response-fields.adoc[]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MemberControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-06-13T04:31:33" hostname="DESKTOP-AGQ7B9N" time="0.768">
+  <properties/>
+  <testcase name="아이디를 기반으로 멤버 가져오기" classname="org.example.MemberControllerTest" time="0.485"/>
+  <testcase name="일치하는 이름 가져오기" classname="org.example.MemberControllerTest" time="0.081"/>
+  <testcase name="member 가져오기" classname="org.example.MemberControllerTest" time="0.063"/>
+  <testcase name="member 저장하기" classname="org.example.MemberControllerTest" time="0.126"/>
+  <system-out><![CDATA[13:31:28.278 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.example.MemberControllerTest]: MemberControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:31:28.632 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.example.Main for test class org.example.MemberControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-06-13T13:31:29.522+09:00  INFO 86808 --- [    Test worker] org.example.MemberControllerTest         : Starting MemberControllerTest using Java 17.0.10 with PID 86808 (started by 김지운 in C:\Users\김지운\Desktop\valid_exception\rest_docs)
+2024-06-13T13:31:29.524+09:00  INFO 86808 --- [    Test worker] org.example.MemberControllerTest         : No active profile set, falling back to 1 default profile: "default"
+2024-06-13T13:31:33.497+09:00  WARN 86808 --- [    Test worker] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-06-13T13:31:33.644+09:00  INFO 86808 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-06-13T13:31:33.645+09:00  INFO 86808 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-06-13T13:31:33.648+09:00  INFO 86808 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-06-13T13:31:33.705+09:00  INFO 86808 --- [    Test worker] org.example.MemberControllerTest         : Started MemberControllerTest in 4.868 seconds (process running for 8.319)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

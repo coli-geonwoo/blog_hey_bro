@@ -1,0 +1,4 @@
+[source,json,options="nowrap"]
+----
+{"name":"새로운 멤버","age":21}
+----

@@ -1,0 +1,12 @@
+|===
+|Path|Type|Description
+
+|`+name+`
+|`+String+`
+|새로운 멤버의 이름입니다.
+
+|`+age+`
+|`+Number+`
+|새로운 멤버의 나이입니다.
+
+|===

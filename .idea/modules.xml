@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest_docs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rest_docs.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/valid_exception.iml" filepath="$PROJECT_DIR$/.idea/valid_exception.iml" />
     </modules>
   </component>

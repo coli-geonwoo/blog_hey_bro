@@ -1,0 +1,20 @@
+|===
+|Path|Type|Description
+
+|`+memberResponses+`
+|`+Array+`
+|전체 멤버 목록
+
+|`+memberResponses[].id+`
+|`+Number+`
+|새로운 멤버의 아이디입니다.
+
+|`+memberResponses[].name+`
+|`+String+`
+|새로운 멤버의 이름입니다.
+
+|`+memberResponses[].age+`
+|`+Number+`
+|새로운 멤버의 나이입니다.
+
+|===

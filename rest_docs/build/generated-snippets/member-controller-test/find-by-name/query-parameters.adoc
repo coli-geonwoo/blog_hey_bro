@@ -1,0 +1,7 @@
+|===
+|Parameter|Description
+
+|`+name+`
+|필터링할 멤버 이름입니다.
+
+|===
