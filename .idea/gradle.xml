@@ -14,6 +14,16 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swagger" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle/gradle-8.4" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/swagger" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/valid_exception" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
